@@ -9,4 +9,5 @@ MT Web portal is a one-stop to integrate and visualize dev cycle tasks to MT lik
 3. Virtual cluster monitoring and management
 4. Data management
 
-[How to start](docs/HowToStart.md)
+[How to install and run](docs/HowToRun.md)  
+[How to use](docs/HowToUse.md)

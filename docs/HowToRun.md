@@ -1,4 +1,4 @@
-# How to use MT Webportal
+# How to install and run MT Webportal
 ## 1. start nginx
 Run \mtExternalService\Nginx\start.bat
 

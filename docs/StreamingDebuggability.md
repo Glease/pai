@@ -29,7 +29,7 @@ Micro batch level debugging information focuses to show detailed infor for a spe
 
 If input data is coming from Kafka, another graph will show the input records count for each micro batch.<br>
 Similarly P50,P95 are counted; graph area can be zoomed in and out; clicking on one bar can jump to the corresponding micro batch debugging page.
-<img src="./Snapshot/input-rate.png" width = 820>
+<img src="./images/input-rate.png" width = 820>
 
 <a name="Durtaion" id = "Duration"></a>
 ## Duration
@@ -40,7 +40,7 @@ Similarly P50,P95 are counted; graph area can be zoomed in and out; clicking on 
 * Click and drag using mouse to zoom out selected graph area.<br>
 * Click one bar, can jump to the the corresponding 'micro batch level debug' page​.<br>
 
-<img src="./Snapshot/duration.png" width = 820>
+<img src="./images/duration.png" width = 820>
 
 <a name="Errors" id = "Errors"></a>
 ## Errors
